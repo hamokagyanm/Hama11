@@ -1,5 +1,3 @@
-# Hama11
-Hama11
 import  os, sys , time
 os.system("clear")
 time.sleep(2)
